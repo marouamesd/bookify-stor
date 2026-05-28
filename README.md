@@ -1,6 +1,6 @@
-# Bokifay 📚
+# Bookify 📚
 
-Bokifay is a bookstore management system developed using Java Swing and MySQL.
+Bookify is a bookstore management system developed using Java Swing and MySQL.
 The application provides tools for managing books, inventory, and bookstore operations through a desktop graphical interface.
 
 ## Features
