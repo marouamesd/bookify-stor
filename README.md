@@ -42,6 +42,3 @@ git clone https://github.com/31773207/ihm2.git
 
 4. Run the main Java file
 
-## Author
-
-31773207
